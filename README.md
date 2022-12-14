@@ -1,1 +1,1 @@
-# Go_Bootcamp
+# go-bootcamp
